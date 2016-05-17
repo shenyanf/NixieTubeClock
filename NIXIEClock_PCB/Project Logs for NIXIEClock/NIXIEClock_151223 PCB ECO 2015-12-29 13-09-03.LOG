@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetF1_2 Pin=S1-1
+Removed Pin From Net: NetName=V12 Pin=S1-2
+Removed Pin From Net: NetName=TD_SWITCH Pin=S2-2
+Change Component DesignItemId : Designator=S1 Old DesignItemId=SW-SPST New DesignItemId=钮子开关
+Change Component DesignItemId : Designator=S2 Old DesignItemId=SW-SPST New DesignItemId=钮子开关
+Change Component Comment : Designator=S1 Old Comment=Switch New Comment=钮子开关
+Change Component Comment : Designator=S2 Old Comment=Switch New Comment=钮子开关
+Change Component Description : Designator=S1 Old Description=Single-Pole, Single-Throw Switch New Description=
+Change Component Description : Designator=S2 Old Description=Single-Pole, Single-Throw Switch New Description=
+Change Component Library : Designator=S1 Old Library=Miscellaneous Devices.IntLib New Library=NIXIEClock_SCHLib.SchLib
+Change Component Library : Designator=S2 Old Library=Miscellaneous Devices.IntLib New Library=NIXIEClock_SCHLib.SchLib
+Added Pin To Net: NetName=NetF1_2 Pin=S1-2

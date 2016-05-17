@@ -1,0 +1,3 @@
+Added Component: Designator=GND(TEST)
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component GND TEST

@@ -1,0 +1,78 @@
+Added Component: Designator=N1(IN14)
+Added Component: Designator=N2(IN14)
+Added Component: Designator=N3(IN14)
+Added Component: Designator=N4(IN14)
+Added Component: Designator=N5(IN14)
+Added Component: Designator=N6(IN14)
+Added Pin To Net: NetName=NetN1_1 Pin=N1-1
+Added Pin To Net: NetName=N1_1 Pin=N1-3
+Added Pin To Net: NetName=N1_2 Pin=N1-4
+Added Pin To Net: NetName=N1_3 Pin=N1-5
+Added Pin To Net: NetName=N1_4 Pin=N1-6
+Added Pin To Net: NetName=N1_5 Pin=N1-7
+Added Pin To Net: NetName=N1_6 Pin=N1-8
+Added Pin To Net: NetName=N1_7 Pin=N1-9
+Added Pin To Net: NetName=N1_8 Pin=N1-10
+Added Pin To Net: NetName=N1_9 Pin=N1-11
+Added Pin To Net: NetName=N1_0 Pin=N1-12
+Added Pin To Net: NetName=NetN2_1 Pin=N2-1
+Added Pin To Net: NetName=N2_1 Pin=N2-3
+Added Pin To Net: NetName=N2_2 Pin=N2-4
+Added Pin To Net: NetName=N2_3 Pin=N2-5
+Added Pin To Net: NetName=N2_4 Pin=N2-6
+Added Pin To Net: NetName=N2_5 Pin=N2-7
+Added Pin To Net: NetName=N2_6 Pin=N2-8
+Added Pin To Net: NetName=N2_7 Pin=N2-9
+Added Pin To Net: NetName=N2_8 Pin=N2-10
+Added Pin To Net: NetName=N2_9 Pin=N2-11
+Added Pin To Net: NetName=N2_0 Pin=N2-12
+Added Pin To Net: NetName=NetN3_1 Pin=N3-1
+Added Pin To Net: NetName=N3_1 Pin=N3-3
+Added Pin To Net: NetName=N3_2 Pin=N3-4
+Added Pin To Net: NetName=N3_3 Pin=N3-5
+Added Pin To Net: NetName=N3_4 Pin=N3-6
+Added Pin To Net: NetName=N3_5 Pin=N3-7
+Added Pin To Net: NetName=N3_6 Pin=N3-8
+Added Pin To Net: NetName=N3_7 Pin=N3-9
+Added Pin To Net: NetName=N3_8 Pin=N3-10
+Added Pin To Net: NetName=N3_9 Pin=N3-11
+Added Pin To Net: NetName=N3_0 Pin=N3-12
+Added Pin To Net: NetName=NetN4_1 Pin=N4-1
+Added Pin To Net: NetName=N4_1 Pin=N4-3
+Added Pin To Net: NetName=N4_2 Pin=N4-4
+Added Pin To Net: NetName=N4_3 Pin=N4-5
+Added Pin To Net: NetName=N4_4 Pin=N4-6
+Added Pin To Net: NetName=N4_5 Pin=N4-7
+Added Pin To Net: NetName=N4_6 Pin=N4-8
+Added Pin To Net: NetName=N4_7 Pin=N4-9
+Added Pin To Net: NetName=N4_8 Pin=N4-10
+Added Pin To Net: NetName=N4_9 Pin=N4-11
+Added Pin To Net: NetName=N4_0 Pin=N4-12
+Added Pin To Net: NetName=NetN5_1 Pin=N5-1
+Added Pin To Net: NetName=N5_1 Pin=N5-3
+Added Pin To Net: NetName=N5_2 Pin=N5-4
+Added Pin To Net: NetName=N5_3 Pin=N5-5
+Added Pin To Net: NetName=N5_4 Pin=N5-6
+Added Pin To Net: NetName=N5_5 Pin=N5-7
+Added Pin To Net: NetName=N5_6 Pin=N5-8
+Added Pin To Net: NetName=N5_7 Pin=N5-9
+Added Pin To Net: NetName=N5_8 Pin=N5-10
+Added Pin To Net: NetName=N5_9 Pin=N5-11
+Added Pin To Net: NetName=N5_0 Pin=N5-12
+Added Pin To Net: NetName=NetN6_1 Pin=N6-1
+Added Pin To Net: NetName=N6_1 Pin=N6-3
+Added Pin To Net: NetName=N6_2 Pin=N6-4
+Added Pin To Net: NetName=N6_3 Pin=N6-5
+Added Pin To Net: NetName=N6_4 Pin=N6-6
+Added Pin To Net: NetName=N6_5 Pin=N6-7
+Added Pin To Net: NetName=N6_6 Pin=N6-8
+Added Pin To Net: NetName=N6_7 Pin=N6-9
+Added Pin To Net: NetName=N6_8 Pin=N6-10
+Added Pin To Net: NetName=N6_9 Pin=N6-11
+Added Pin To Net: NetName=N6_0 Pin=N6-12
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component N1 §ª§¯-14
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component N2 §ª§¯-14
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component N3 §ª§¯-14
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component N4 §ª§¯-14
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component N5 §ª§¯-14
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component N6 §ª§¯-14

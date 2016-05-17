@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=S2-3
+Removed Pin From Net: NetName=GND Pin=S2-3
+Change Component Comment : Designator=D2 Old Comment=75V 0.5W New Comment=ZM75

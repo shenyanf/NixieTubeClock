@@ -1,0 +1,32 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~NIXIEClock.PrjPCB|ReportField=ProjectFullPath~E:\DESKTOP\Project.Fever\NIXIEClock_PCB\NIXIEClock.PrjPCB|ReportField=Title~Bill of Materials For Project [NIXIEClock.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~85|ReportField=ReportTime~21:55:40|ReportField=ReportDate~2015/12/28|ReportField=ReportDateTime~2015/12/28 21:55:40|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/12/28|ReportField=CurrentTime~21:55:38|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\DESKTOP\Project.Fever\NIXIEClock_PCB\NIXIEClock_SCH.SchDoc|ReportField=DocumentName~NIXIEClock_SCH.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/12/28|ReportField=Organization~|ReportField=ProjectName~NIXIEClock.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~NIXIEClock.PrjPCB|ReportField=DataSourceFullPath~E:\DESKTOP\Project.Fever\NIXIEClock_PCB\NIXIEClock.PrjPCB
+Header 3X2|Header, 3-Pin, Dual row|BOOT|HDR2X3|Header 3X2|1
+Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C2, C3, C8, C9|C0805|Cap Semi|5
+Cap Pol1|Polarized Capacitor (Radial)|C4|电容卧放2.54mm-1|Cap Pol1|1
+Cap Pol1|Polarized Capacitor (Radial)|C5|C1206|Cap Pol1|1
+Cap Pol1|Polarized Capacitor (Radial)|C6, C7|HONOR_63X77|Cap Pol1|2
+Cap|Capacitor|C10|C0805|Cap|1
+20pF|Capacitor|C11, C12|0805|普通电容|2
+Cap Semi|Capacitor (Semiconductor SIM Model)|C13, C14, C15, C16, C17, C18, C19|C1206|Cap Semi|7
+RS1G|Silicon RF Schottky Diode for Mixer Applications in the VHF/UHF Range|D1|SMB|Diode BAT17|1
+75V 0.5W|Schottky Rectifier|D2|LL-34|Diode 11DQ03|1
+Power||DC1|电源DC插座5.4mm|电源插座5.4mm|1
+Lamp Neon|Neon Lamp|DS1, DS2, DS3, DS4|PIN2|Lamp Neon|4
+Fuse 1|Fuse|F1|SMD2018P100TF|Fuse 1|1
+Inductor Iron|Magnetic-Core Inductor|L1|GDRH127|Inductor Iron|1
+L0||L2|0805|L0|1
+ИН-14||N1, N2, N3, N4, N5, N6|IN14|ИН-14|6
+A42|NPN Bipolar Transistor|Q1, Q2, Q4, Q5|SOT-89|NPN|4
+IRF840|N-Channel Power MOSFET|Q3|TO-252-2L|NMOS-2|1
+Res Semi|Semiconductor Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31|R0805|Res Semi|31
+TEST||RST|TEST|TEST|1
+Switch|Single-Pole, Single-Throw Switch|S1, S2|SPST-2|SW-SPST|2
+SW-PB|Switch|S3|按键 - duplicate - duplicate|SW-PB|1
+Header 4|Header, 4-Pin|SWD|HDR1X4|Header 4|1
+XC6206||U1|SOT-23-3L|XC6206|1
+MC34063A||U2|SOIC8|MC34063A|1
+L78M05||U3|TO-252-2L|L78M05|1
+HV57708||U4|HV57708PG|HV57708|1
+Infrared receiver||U5|SIP3|Infrared Receiver|1
+STM32F103RBT6|STM32 ARM-based 32-bit MCU Performance Line with 128 kB Flash, 20 kB Internal RAM, -40 to +85癈 Temperature, 64-Pin LQFP, Tray|U6|LQFP64_N|STM32F103RBT6|1
+DS12C887||U7||DS12C887|1
+8MHZ|Crystal Oscillator|X1|CRYM|XTAL|1

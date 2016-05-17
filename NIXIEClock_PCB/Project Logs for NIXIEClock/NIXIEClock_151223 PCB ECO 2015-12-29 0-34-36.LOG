@@ -1,0 +1,8 @@
+Added Component: Designator=T1(ÂÝË¿¿×-3mm)
+Added Component: Designator=T2(ÂÝË¿¿×-3mm)
+Added Component: Designator=T3(ÂÝË¿¿×-3mm)
+Added Component: Designator=T4(ÂÝË¿¿×-3mm)
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component T1 Í­Öù
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component T2 Í­Öù
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component T3 Í­Öù
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component T4 Í­Öù

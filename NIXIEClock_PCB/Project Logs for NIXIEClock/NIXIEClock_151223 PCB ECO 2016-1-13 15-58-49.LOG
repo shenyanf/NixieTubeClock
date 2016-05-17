@@ -1,0 +1,5 @@
+Added Component: Designator=Q3(TO-263-2L)
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component Q3 IRF840

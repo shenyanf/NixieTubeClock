@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=V3.3 Pin=Relay1-1
+Removed Pin From Net: NetName=NetC7_1 Pin=Relay1-6
+Removed Pin From Net: NetName=V12 Pin=Relay1-7
+Removed Pin From Net: NetName=NetD3_1 Pin=Relay1-8
+Removed Member From Class: ClassName=NIXIEClock_SCH Member=Relay1
+Added Component: Designator=Relay?(HFD4)
+Added Pin To Net: NetName=V3.3 Pin=Relay?-1
+Added Pin To Net: NetName=V12 Pin=Relay?-2
+Added Pin To Net: NetName=NetC7_1 Pin=Relay?-3
+Added Pin To Net: NetName=NetD3_1 Pin=Relay?-8
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component Relay? HFD4

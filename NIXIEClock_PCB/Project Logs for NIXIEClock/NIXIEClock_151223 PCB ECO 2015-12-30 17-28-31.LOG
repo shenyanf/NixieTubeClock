@@ -1,0 +1,12 @@
+Added Component: Designator=3.3v(TEST)
+Added Component: Designator=5V(TEST)
+Added Component: Designator=12V(TEST)
+Added Component: Designator=VH(TEST)
+Added Pin To Net: NetName=V3.3 Pin=3.3v-1
+Added Pin To Net: NetName=V5 Pin=5V-1
+Added Pin To Net: NetName=V12 Pin=12V-1
+Added Pin To Net: NetName=VH Pin=VH-1
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component 3.3v TEST
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component 5V TEST
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component 12V TEST
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component VH TEST

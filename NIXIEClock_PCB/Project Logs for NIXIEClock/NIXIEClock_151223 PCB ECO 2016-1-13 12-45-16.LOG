@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=\I\N\T\/SQW Pin=U7-15
+Change Component Library : Designator=U7 Old Library=NIXIEClock_SCHLib.SchLib New Library=NIXIEClock.SCHLIB
+Added Pin To Net: NetName=\I\N\T\/SQW Pin=U7-3
+Added Pin To Net: NetName=DS3221_SDA Pin=U7-15

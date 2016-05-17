@@ -1,0 +1,62 @@
+Added Component: Designator=LED1(AVX_B_3528-21)
+Added Component: Designator=LED2(AVX_B_3528-21)
+Added Component: Designator=LED3(AVX_B_3528-21)
+Added Component: Designator=LED4(AVX_B_3528-21)
+Added Component: Designator=LED5(AVX_B_3528-21)
+Added Component: Designator=LED6(AVX_B_3528-21)
+Added Component: Designator=LED(LED5mm)
+Added Component: Designator=R33(R0805)
+Added Component: Designator=R34(R0805)
+Added Component: Designator=R35(R0805)
+Added Component: Designator=R36(R0805)
+Added Component: Designator=R37(R0805)
+Added Component: Designator=R38(R0805)
+Added Pin To Net: NetName=V3.3 Pin=R33-1
+Added Pin To Net: NetName=V3.3 Pin=R34-1
+Added Pin To Net: NetName=V3.3 Pin=R35-1
+Added Pin To Net: NetName=V3.3 Pin=R36-1
+Added Pin To Net: NetName=V3.3 Pin=R37-1
+Added Pin To Net: NetName=V3.3 Pin=R38-1
+Added Pin To Net: NetName=LED1 Pin=U6-29
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=U6-30
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=U6-33
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=U6-34
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=U6-35
+Added Net: Name=LED5
+Added Pin To Net: NetName=LED6 Pin=U6-36
+Added Net: Name=LED6
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R33-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R34-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R35-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R36-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R37-2
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R38-2
+Added Net: Name=NetLED6_1
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component LED1 LED
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component LED2 LED
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component LED3 LED
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component LED4 LED
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component LED5 LED
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component LED6 LED
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component LED
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R33 Res Semi
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R34 Res Semi
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R35 Res Semi
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R36 Res Semi
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R37 Res Semi
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R38 Res Semi

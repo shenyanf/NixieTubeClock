@@ -1,0 +1,6 @@
+Added Component: Designator=Relay(HFD4)
+Added Pin To Net: NetName=V3.3 Pin=Relay-1
+Added Pin To Net: NetName=V12 Pin=Relay-2
+Added Pin To Net: NetName=NetC7_1 Pin=Relay-3
+Added Pin To Net: NetName=NetD3_1 Pin=Relay-8
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component Relay HFD4

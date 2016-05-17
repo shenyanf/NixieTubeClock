@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DS3221_SCL Pin=R39-2
+Removed Pin From Net: NetName=DS3221_SDA Pin=R40-2
+Added Pin To Net: NetName=DS3221_SCL Pin=R39-1
+Added Pin To Net: NetName=V3.3 Pin=R39-2
+Added Pin To Net: NetName=DS3221_SDA Pin=R40-1
+Added Pin To Net: NetName=V3.3 Pin=R40-2
+Added Pin To Net: NetName=DS3221_SDA Pin=U7-15
+Added Pin To Net: NetName=DS3221_SCL Pin=U7-16

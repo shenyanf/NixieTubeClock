@@ -1,0 +1,40 @@
+Change Component Footprint: Designator=BT1 Old Footprint=PIN2 New Footprint=BAT1220
+Added Component: Designator=C20(C0603)
+Added Component: Designator=R39(0805)
+Added Component: Designator=R40(0805)
+Added Component: Designator=U7(SOP16_75MM)
+Added Pin To Net: NetName=V3.3 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=V3.3 Pin=U7-2
+Added Pin To Net: NetName=RESET Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U7-10
+Added Pin To Net: NetName=GND Pin=U7-11
+Added Pin To Net: NetName=GND Pin=U7-12
+Added Pin To Net: NetName=GND Pin=U7-13
+Added Pin To Net: NetName=NetBT1_1 Pin=U7-14
+Change Net Name : Old Net Name=CLK New Net Name=HV_CLK
+Change Net Name : Old Net Name=DIN1 New Net Name=HV_DIN1
+Change Net Name : Old Net Name=DIN2 New Net Name=HV_DIN2
+Change Net Name : Old Net Name=DIN3 New Net Name=HV_DIN3
+Change Net Name : Old Net Name=DIN4 New Net Name=HV_DIN4
+Change Net Name : Old Net Name=LE New Net Name=HV_LE
+Change Net Name : Old Net Name=POL New Net Name=HV_POL
+Added Pin To Net: NetName=DS3221_SCL Pin=R39-2
+Added Net: Name=DS3221_SCL
+Added Pin To Net: NetName=DS3221_SDA Pin=R40-2
+Added Net: Name=DS3221_SDA
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=U7-16
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=U7-15
+Added Net: Name=NetR40_1
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component C20 Cap Semi
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R39 Res Semi
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R40 Res Semi
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component U7 DS3231

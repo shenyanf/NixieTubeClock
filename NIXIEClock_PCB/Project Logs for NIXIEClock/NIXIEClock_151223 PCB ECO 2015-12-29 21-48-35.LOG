@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=DIN1 Pin=R17-2
+Added Pin To Net: NetName=DIN2 Pin=R18-2
+Added Pin To Net: NetName=DIN3 Pin=R19-2
+Added Pin To Net: NetName=DIN4 Pin=R20-2
+Added Pin To Net: NetName=LE Pin=R21-2
+Added Pin To Net: NetName=CLK Pin=R22-2
+Added Pin To Net: NetName=POL Pin=R23-2
+Added Pin To Net: NetName=DIN1 Pin=U4-25
+Added Pin To Net: NetName=DIN2 Pin=U4-26
+Added Pin To Net: NetName=DIN3 Pin=U4-27
+Added Pin To Net: NetName=DIN4 Pin=U4-28
+Added Pin To Net: NetName=LE Pin=U4-29
+Added Pin To Net: NetName=CLK Pin=U4-30
+Added Pin To Net: NetName=POL Pin=U4-35

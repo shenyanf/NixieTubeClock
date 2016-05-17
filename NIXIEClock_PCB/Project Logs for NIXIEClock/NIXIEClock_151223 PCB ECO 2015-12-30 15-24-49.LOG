@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V3.3 Pin=SWD-3
+Removed Pin From Net: NetName=DGND Pin=SWD-4
+Added Pin To Net: NetName=DGND Pin=SWD-3
+Added Pin To Net: NetName=V3.3 Pin=SWD-4

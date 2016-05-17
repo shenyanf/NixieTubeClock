@@ -1,0 +1,19 @@
+Added Component: Designator=U7(DS12C887)
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=AD0 Pin=U7-4
+Added Pin To Net: NetName=AD1 Pin=U7-5
+Added Pin To Net: NetName=AD2 Pin=U7-6
+Added Pin To Net: NetName=AD3 Pin=U7-7
+Added Pin To Net: NetName=AD4 Pin=U7-8
+Added Pin To Net: NetName=AD5 Pin=U7-9
+Added Pin To Net: NetName=AD6 Pin=U7-10
+Added Pin To Net: NetName=AD7 Pin=U7-11
+Added Pin To Net: NetName=GND Pin=U7-12
+Added Pin To Net: NetName=CS Pin=U7-13
+Added Pin To Net: NetName=AS Pin=U7-14
+Added Pin To Net: NetName=RW Pin=U7-15
+Added Pin To Net: NetName=DS Pin=U7-17
+Added Pin To Net: NetName=V5 Pin=U7-18
+Added Pin To Net: NetName=IRQ Pin=U7-19
+Added Pin To Net: NetName=V5 Pin=U7-24
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component U7 DS12C887

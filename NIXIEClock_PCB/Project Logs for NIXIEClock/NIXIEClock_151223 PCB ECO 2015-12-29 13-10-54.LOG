@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=S1 Old Footprint=SPST-2 New Footprint=钮子开关6mm
+Change Component Footprint: Designator=S2 Old Footprint=SPST-2 New Footprint=钮子开关6mm
+Added Pin To Net: NetName=V12 Pin=S1-3
+Added Pin To Net: NetName=V12 Pin=S1-3

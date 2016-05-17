@@ -1,0 +1,1320 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\Project.uvproj
+Project File Date:  01/23/2016
+
+<h2>Output:</h2>
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+compiling myiic.c...
+..\USER\myiic.c(100): error:  #20: identifier "IIC_SDA" is undefined
+Target not created
+Build target 'Target'
+compiling myiic.c...
+..\USER\myiic.c(102): error:  #127: expected a statement
+Target not created
+Build target 'Target'
+compiling myiic.c...
+..\USER\myiic.c(102): error:  #127: expected a statement
+Target not created
+Rebuild target 'Target'
+compiling main.c...
+compiling stm32f10x_it.c...
+compiling HV57708.c...
+compiling myiic.c...
+..\USER\myiic.c(102): error:  #127: expected a statement
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_can.c...
+compiling stm32f10x_cec.c...
+compiling stm32f10x_crc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_i2c.c...
+compiling stm32f10x_iwdg.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_wwdg.c...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_md.s...
+Target not created
+Build target 'Target'
+compiling myiic.c...
+..\USER\myiic.c(102): error:  #127: expected a statement
+Target not created
+Build target 'Target'
+compiling myiic.c...
+..\USER\myiic.c(102): error:  #127: expected a statement
+Target not created
+Build target 'Target'
+compiling myiic.c...
+..\USER\myiic.c(102): error:  #127: expected a statement
+Target not created
+Build target 'Target'
+compiling myiic.c...
+..\USER\myiic.c(102): error:  #127: expected a statement
+..\USER\myiic.c(105): warning:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Build target 'Target'
+compiling myiic.c...
+..\USER\myiic.c(102): error:  #127: expected a statement
+..\USER\myiic.c(105): warning:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Build target 'Target'
+compiling myiic.c...
+..\USER\myiic.c(102): error:  #127: expected a statement
+..\USER\myiic.c(105): warning:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Build target 'Target'
+compiling myiic.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target'
+compiling myiic.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target'
+compiling myiic.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target'
+compiling myiic.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target'
+compiling myiic.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target'
+compiling main.c...
+compiling stm32f10x_it.c...
+compiling HV57708.c...
+compiling myiic.c...
+compiling DS3231.c...
+..\USER\ds3231.h(10): error:  #5: cannot open source input file "i2c.h": No such file or directory
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_can.c...
+compiling stm32f10x_cec.c...
+compiling stm32f10x_crc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_i2c.c...
+compiling stm32f10x_iwdg.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_wwdg.c...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_md.s...
+Target not created
+Build target 'Target'
+compiling DS3231.c...
+..\USER\DS3231.c(36): error:  #41: expression must have arithmetic or pointer type
+..\USER\DS3231.c(54): error:  #41: expression must have arithmetic or pointer type
+..\USER\DS3231.c(59): error:  #165: too few arguments in function call
+..\USER\DS3231.c(81): error:  #41: expression must have arithmetic or pointer type
+..\USER\DS3231.c(88): error:  #165: too few arguments in function call
+..\USER\DS3231.c(99): error:  #41: expression must have arithmetic or pointer type
+Target not created
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+compiling main.c...
+..\USER\main.c - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=1984 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+..\USER\main.c(22): error:  #29: expected an expression
+..\USER\main.c(22): error:  #29: expected an expression
+Target not created
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=2032 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.287V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=2032 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=2032 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.287V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+compiling myiic.c...
+compiling DS3231.c...
+..\USER\DS3231.c(35): error:  #41: expression must have arithmetic or pointer type
+..\USER\DS3231.c(53): error:  #41: expression must have arithmetic or pointer type
+..\USER\DS3231.c(80): error:  #41: expression must have arithmetic or pointer type
+..\USER\DS3231.c(98): error:  #41: expression must have arithmetic or pointer type
+Target not created
+Build target 'Target'
+compiling myiic.c...
+..\USER\myiic.c(98): error:  #147: declaration is incompatible with "void IIC_Send_Byte(u8)" (declared at line 22 of "..\USER\myiic.h")
+..\USER\myiic.c(125): warning:  #223-D: function "IN_SDA" declared implicitly
+..\USER\myiic.c(129): warning:  #940-D: missing return statement at end of non-void function "IIC_Send_Byte"
+compiling DS3231.c...
+..\USER\DS3231.c(35): error:  #41: expression must have arithmetic or pointer type
+..\USER\DS3231.c(53): error:  #41: expression must have arithmetic or pointer type
+..\USER\DS3231.c(80): error:  #41: expression must have arithmetic or pointer type
+..\USER\DS3231.c(98): error:  #41: expression must have arithmetic or pointer type
+Target not created
+Build target 'Target'
+compiling main.c...
+compiling myiic.c...
+..\USER\myiic.c(125): warning:  #223-D: function "IN_SDA" declared implicitly
+..\USER\myiic.c(129): warning:  #940-D: missing return statement at end of non-void function "IIC_Send_Byte"
+compiling DS3231.c...
+linking...
+.\Obj\led.axf: Error: L6218E: Undefined symbol IN_SDA (referred from myiic.o).
+Target not created
+Build target 'Target'
+compiling myiic.c...
+linking...
+Program Size: Code=2032 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target'
+compiling main.c...
+compiling myiic.c...
+compiling DS3231.c...
+linking...
+Program Size: Code=2032 RO-data=268 RW-data=8 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target'
+compiling main.c...
+..\USER\main.c(21): error:  #29: expected an expression
+..\USER\main.c(21): error:  #140: too many arguments in function call
+Target not created
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=3176 RO-data=268 RW-data=44 ZI-data=1028  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=3176 RO-data=268 RW-data=44 ZI-data=1028  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+compiling DS3231.c...
+linking...
+Program Size: Code=3320 RO-data=268 RW-data=44 ZI-data=1028  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.280V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=3212 RO-data=268 RW-data=44 ZI-data=1028  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.280V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+**JLink Warning: S_RESET_ST not cleared
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: CPU could not be halted
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=3320 RO-data=268 RW-data=44 ZI-data=1028  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.287V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=3212 RO-data=268 RW-data=44 ZI-data=1028  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.280V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target'
+compiling main.c...
+linking...
+Program Size: Code=3320 RO-data=268 RW-data=44 ZI-data=1028  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.280V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target'
+compiling main.c...
+..\USER\main.c(10): warning:  #177-D: variable "i" was declared but never referenced
+..\USER\main.c(10): warning:  #177-D: variable "j" was declared but never referenced
+..\USER\main.c(11): warning:  #177-D: variable "x" was declared but never referenced
+linking...
+Program Size: Code=2428 RO-data=268 RW-data=40 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.274V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.325V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target'
+compiling main.c...
+..\USER\main.c(27): error:  #22: invalid hexadecimal number
+..\USER\main.c(10): warning:  #177-D: variable "i" was declared but never referenced
+..\USER\main.c(10): warning:  #177-D: variable "j" was declared but never referenced
+..\USER\main.c(11): warning:  #177-D: variable "x" was declared but never referenced
+Target not created
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+_____^
+*** error 56: cannot open file
+Build target 'Target'
+compiling main.c...
+..\USER\main.c(27): error:  #22: invalid hexadecimal number
+..\USER\main.c(10): warning:  #177-D: variable "i" was declared but never referenced
+..\USER\main.c(10): warning:  #177-D: variable "j" was declared but never referenced
+..\USER\main.c(11): warning:  #177-D: variable "x" was declared but never referenced
+Target not created
+Build target 'Target'
+compiling main.c...
+..\USER\main.c(10): warning:  #177-D: variable "i" was declared but never referenced
+..\USER\main.c(10): warning:  #177-D: variable "j" was declared but never referenced
+..\USER\main.c(11): warning:  #177-D: variable "x" was declared but never referenced
+linking...
+Program Size: Code=2428 RO-data=268 RW-data=40 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.325V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target'
+compiling main.c...
+..\USER\main.c(10): warning:  #177-D: variable "i" was declared but never referenced
+..\USER\main.c(10): warning:  #177-D: variable "j" was declared but never referenced
+..\USER\main.c(11): warning:  #177-D: variable "x" was declared but never referenced
+linking...
+Program Size: Code=2320 RO-data=268 RW-data=40 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.325V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target'
+compiling myiic.c...
+linking...
+Program Size: Code=2320 RO-data=268 RW-data=40 ZI-data=1024  
+FromELF: creating hex file...
+".\Obj\led.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.325V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Load "C:\\Users\\PC\\Desktop\\ª‘π‚÷”≤‚ ‘≥Ã–Ú\\Project\\Obj\\led.AXF" 
+* JLink Info: Device "STM32F102RB" selected (128 KB flash, 16 KB RAM).
+Set JLink Project File to "C:\Users\PC\Desktop\ª‘π‚÷”≤‚ ‘≥Ã–Ú\Project\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 308622869 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F102RB
+VTarget = 3.325V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...

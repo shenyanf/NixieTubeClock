@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R39 NewDesignator=R41
+Added Pin To Net: NetName=DS3221_SDA Pin=U7-15
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR41_1
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R41 Res Semi

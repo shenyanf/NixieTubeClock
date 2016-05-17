@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetF1_2 Pin=S1-2
+Removed Pin From Net: NetName=NetF1_2 Pin=S1-2
+Removed Pin From Net: NetName=V12 Pin=S1-3
+Removed Pin From Net: NetName=V12 Pin=S1-3
+Removed Pin From Net: NetName=DGND Pin=S2-1
+Removed Pin From Net: NetName=DGND Pin=S2-1
+Removed Pin From Net: NetName=TD_SWITCH Pin=S2-2
+Removed Pin From Net: NetName=TD_SWITCH Pin=S2-2
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=TD_SWITCH Pin=S1-2
+Added Pin To Net: NetName=TD_SWITCH Pin=S1-2
+Added Pin To Net: NetName=NetF1_2 Pin=S2-2
+Added Pin To Net: NetName=NetF1_2 Pin=S2-2
+Added Pin To Net: NetName=V12 Pin=S2-3
+Added Pin To Net: NetName=V12 Pin=S2-3

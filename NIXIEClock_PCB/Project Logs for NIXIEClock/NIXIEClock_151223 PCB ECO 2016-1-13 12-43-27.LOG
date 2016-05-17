@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=\I\N\T\/SQW Pin=R41-1
+Added Pin To Net: NetName=\I\N\T\/SQW Pin=U7-15
+Added Net: Name=\I\N\T\/SQW
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R39 Res Semi

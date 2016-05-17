@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=HV_POL Pin=U6-51
+Added Pin To Net: NetName=HV_DIN4 Pin=U6-54
+Added Pin To Net: NetName=HV_DIN3 Pin=U6-57
+Added Pin To Net: NetName=HV_DIN2 Pin=U6-58
+Added Pin To Net: NetName=HV_DIN1 Pin=U6-59

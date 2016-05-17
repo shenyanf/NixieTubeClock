@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=U7-5
+Removed Pin From Net: NetName=GND Pin=U7-6
+Removed Pin From Net: NetName=GND Pin=U7-7
+Removed Pin From Net: NetName=GND Pin=U7-8
+Removed Pin From Net: NetName=GND Pin=U7-9
+Removed Pin From Net: NetName=GND Pin=U7-10
+Removed Pin From Net: NetName=GND Pin=U7-11
+Removed Pin From Net: NetName=GND Pin=U7-12
+Removed Pin From Net: NetName=GND Pin=U7-13
+Added Pin To Net: NetName=DGND Pin=BT1-2
+Added Pin To Net: NetName=DGND Pin=C20-2
+Added Pin To Net: NetName=DGND Pin=U7-5
+Added Pin To Net: NetName=DGND Pin=U7-6
+Added Pin To Net: NetName=DGND Pin=U7-7
+Added Pin To Net: NetName=DGND Pin=U7-8
+Added Pin To Net: NetName=DGND Pin=U7-9
+Added Pin To Net: NetName=DGND Pin=U7-10
+Added Pin To Net: NetName=DGND Pin=U7-11
+Added Pin To Net: NetName=DGND Pin=U7-12
+Added Pin To Net: NetName=DGND Pin=U7-13
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component X1 8MHZ

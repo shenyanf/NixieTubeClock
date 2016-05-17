@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=GND Pin=U7-12
+Removed Pin From Net: NetName=V5 Pin=U7-18
+Removed Pin From Net: NetName=V5 Pin=U7-24
+Change Component DesignItemId : Designator=U7 Old DesignItemId=DS12C887 New DesignItemId=DS3231
+Change Component Footprint: Designator=U7 Old Footprint=DS12C887 New Footprint=SOIC16_39MM
+Change Component Comment : Designator=U7 Old Comment=DS12C887 New Comment=DS3231
+Added Component: Designator=BT1(PIN2)
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=V3.3 Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-13
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=U7-14
+Added Net: Name=NetBT1_1
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component BT1 CR1220 holder

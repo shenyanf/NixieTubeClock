@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=V12 Pin=C6-1
+Removed Pin From Net: NetName=V12 Pin=S2-2
+Removed Pin From Net: NetName=V12 Pin=S2-2
+Removed Pin From Net: NetName=V12 Pin=U3-1
+Added Component: Designator=D3(1N4007W)
+Added Component: Designator=Q6(SOT-323)
+Added Component: Designator=R32(R0805)
+Added Pin To Net: NetName=V3.3 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Change Net Name : Old Net Name=V12 New Net Name=NetC7_1
+Added Pin To Net: NetName=BOOST_ONOFF Pin=R32-1
+Added Pin To Net: NetName=BOOST_ONOFF Pin=U6-54
+Added Net: Name=BOOST_ONOFF
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q6-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R32-2
+Added Net: Name=NetQ6_2
+Added Pin To Net: NetName=V12 Pin=C6-1
+Added Pin To Net: NetName=V12 Pin=S2-2
+Added Pin To Net: NetName=V12 Pin=S2-2
+Added Pin To Net: NetName=V12 Pin=U3-1
+Added Net: Name=V12
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component D3 1N4007
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component Q6 9013
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R32 Res Semi

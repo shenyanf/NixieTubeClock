@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=DS3221_SCL Pin=R39-2
+Removed Pin From Net: NetName=DS3221_SDA Pin=R40-2
+Removed Member From Class: ClassName=NIXIEClock_SCH Member=R39
+Change Component Library : Designator=U7 Old Library=NIXIEClock_SCHLib.SchLib New Library=NIXIEClock.SCHLIB
+Added Component: Designator=R41(R0603)
+Added Pin To Net: NetName=DS3221_SDA Pin=R40-1
+Added Pin To Net: NetName=V3.3 Pin=R40-2
+Added Pin To Net: NetName=V3.3 Pin=R41-2
+Added Pin To Net: NetName=DS3221_SDA Pin=U7-15
+Added Pin To Net: NetName=DS3221_SCL Pin=U7-16
+Added Pin To Net: NetName=\I\N\T\/SQW Pin=R41-1
+Added Pin To Net: NetName=\I\N\T\/SQW Pin=U7-3
+Added Net: Name=\I\N\T\/SQW
+Added Member To Class: ClassName=NIXIEClock_SCH Member=Component R41 Res Semi

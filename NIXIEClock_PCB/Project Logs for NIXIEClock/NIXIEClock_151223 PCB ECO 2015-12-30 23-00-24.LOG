@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DGND Pin=S1-2
+Removed Pin From Net: NetName=DGND Pin=S1-2
+Removed Pin From Net: NetName=TD_SWITCH Pin=S1-3
+Removed Pin From Net: NetName=TD_SWITCH Pin=S1-3
+Added Pin To Net: NetName=TD_SWITCH Pin=S1-2
+Added Pin To Net: NetName=TD_SWITCH Pin=S1-2
+Added Pin To Net: NetName=DGND Pin=S1-3
+Added Pin To Net: NetName=DGND Pin=S1-3
